@@ -17,3 +17,7 @@ MonoBehaviour:
     is flashing slowly but despite this, train seems to be moving at a high speed.
     \r\n\r\nYou notice a small peice of paper placed on the seat opposite, it looks
     like a note!\r\n\r\nWhat should I do?\r\n1. Read the Note.\r\n2. Try find someone."
+  nextStates:
+  - {fileID: 11400000, guid: 83f7e000f9214e14483430ddbffcbd2d, type: 2}
+  - {fileID: 11400000, guid: e6fd0f8f8479204408a488c93aae79c6, type: 2}
+  - {fileID: 11400000}
